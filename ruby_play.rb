@@ -1,0 +1,3 @@
+guitars = []
+
+puts guitars.count()
